@@ -1,0 +1,59 @@
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Jupyter / IPython ----
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ---- Extracted datasets ----
+# The .zip archives are committed; their unpacked contents are not.
+dataset/
+data/
+*/dataset/
+*/data/
+
+# ---- Model checkpoints & training artifacts ----
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+runs/
+logs/
+lightning_logs/
+wandb/
+checkpoints/
+
+# ---- Editors / IDEs ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- Misc ----
+.env
+.cache/
