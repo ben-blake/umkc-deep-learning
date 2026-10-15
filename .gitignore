@@ -29,7 +29,8 @@ ipython_config.py
 
 # ---- Extracted datasets ----
 # The .zip archives are committed; their unpacked contents are not.
-# Exception: HW3's dataset is 8.2 GB, over GitHub's 100 MB file limit. It lives in Google Drive.
+# Exceptions: these are over GitHub's 100 MB file limit and live in Google Drive
+# (HW3's dataset is 8.2 GB, HW4's is 452 MB).
 hw3-transformer/Dataset_HW3.zip
 hw4-gan/HW4_Dataset.zip
 dataset/
