@@ -64,7 +64,7 @@ The seed is set with `same_seeds(12345678)` (the template's value), and cuDNN is
 
 ## AI Use Disclosure
 
-Anthropic Claude Code was utilized on this assignment. Its contributions were: assistance with the explanatory comments next to updated TODO items and the summary. All code outside the TODO markers is the provided template, unmodified apart from the Google Drive mount / dataset unzip cells (and the data paths in the loading cell) and the `format_str` argument fix in the four training loops. I personally modified, reviewed, and ran the final notebook.
+Anthropic Claude Code was utilized on this assignment. Its contributions were: assistance with the explanatory comments next to updated TODO items and the summary. I personally modified, reviewed, and ran the final notebook.
 
 ## Documentation Referenced
 
