@@ -8,5 +8,6 @@ Coursework for CS 5567 - Deep Learning at UMKC, Fall 2026.
 | [hw2-cnn](hw2-cnn/)                 | Fashion-MNIST with a CNN, then RNN vs GRU vs LSTM                               | CNN 84.87% test, LSTM 87.57%         |
 | [hw3-transformer](hw3-transformer/) | 600-speaker classification on VoxCeleb1 mel features with a transformer encoder | 52.91% valid accuracy (chance 0.17%) |
 | [hw4-gan](hw4-gan/)                 | Anime face generation with a DCGAN                                              | Recognizable faces after 6 epochs    |
+| [hw5-learning](hw5-learning/)       | FCN, CNN, VAE and ResNet autoencoders for anomaly detection                     | All train; template lr 1e-6 too low  |
 
 Everything runs in Google Colab on a GPU runtime. Each folder has its own README with the setup and results.
