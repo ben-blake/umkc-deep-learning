@@ -40,7 +40,6 @@ data/
 
 # ---- Model checkpoints & training artifacts ----
 *.pt
-*.pth
 *.ckpt
 *.h5
 *.hdf5
@@ -61,3 +60,6 @@ checkpoints/
 # ---- Misc ----
 .env
 .cache/
+
+# ---- Oversized datasets (>100MB, GitHub limit) ----
+hw7-network-compression/food-11.zip
